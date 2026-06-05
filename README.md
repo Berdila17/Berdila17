@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hallo, ich bin Laurentiu
+# Über mich
 
-<!--
-**Berdila17/Berdila17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich lebe in der Schweiz und besuche die IMS (Informatikmittelschule). Mein Ziel ist es, ein sehr guter Informatiker zu werden.
 
-Here are some ideas to get you started:
+## Ausbildung
+Informatikmittelschule (IMS)
+Berufsmaturität Typ Wirtschaft
+EFZ Informatiker (nach Abschluss)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interessen im IT-Bereich
+Programmierung (C#, Python, SQL)
+Datenbanken
+Webentwicklung (HTML, CSS)
+Machine Learning & Künstliche Intelligenz
+
+
+## Technologien
+C#
+Python
+SQL Server
+HTML
+CSS
+
+
+## Persönliche Ziele
+Sehr guter Informatiker werden
+Neue Fähigkeiten lernen und verbessern
+
+## Motto
+Jeden Tag ein kleines Stück besser als gestern.
